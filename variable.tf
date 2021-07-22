@@ -1,0 +1,3 @@
+variable "using_region" {
+	
+}
